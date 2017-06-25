@@ -1,0 +1,9 @@
+c:\users\breezil\documents\visual studio 2015\Projects\EncyptandDecryptText\EncyptandDecryptText\bin\Debug\EncyptandDecryptText.exe.config
+c:\users\breezil\documents\visual studio 2015\Projects\EncyptandDecryptText\EncyptandDecryptText\bin\Debug\EncyptandDecryptText.exe
+c:\users\breezil\documents\visual studio 2015\Projects\EncyptandDecryptText\EncyptandDecryptText\bin\Debug\EncyptandDecryptText.pdb
+c:\users\breezil\documents\visual studio 2015\Projects\EncyptandDecryptText\EncyptandDecryptText\obj\Debug\EncyptandDecryptText.csprojResolveAssemblyReference.cache
+c:\users\breezil\documents\visual studio 2015\Projects\EncyptandDecryptText\EncyptandDecryptText\obj\Debug\EncyptandDecryptText.Form1.resources
+c:\users\breezil\documents\visual studio 2015\Projects\EncyptandDecryptText\EncyptandDecryptText\obj\Debug\EncyptandDecryptText.Properties.Resources.resources
+c:\users\breezil\documents\visual studio 2015\Projects\EncyptandDecryptText\EncyptandDecryptText\obj\Debug\EncyptandDecryptText.csproj.GenerateResource.Cache
+c:\users\breezil\documents\visual studio 2015\Projects\EncyptandDecryptText\EncyptandDecryptText\obj\Debug\EncyptandDecryptText.exe
+c:\users\breezil\documents\visual studio 2015\Projects\EncyptandDecryptText\EncyptandDecryptText\obj\Debug\EncyptandDecryptText.pdb
